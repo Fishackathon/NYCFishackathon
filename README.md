@@ -30,4 +30,3 @@ Utilize self­reported data to help aquaculture farmers maximize production whil
 Monitor, track, and report on the seafood supply chain from sea to table.   
 **Location:** Worldwide   
 **Attachment:** [Challenge 6 Folder](Challenge_6)
-
