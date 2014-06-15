@@ -1,0 +1,15 @@
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\bin\Debug\app_wpf.exe.config
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\bin\Debug\app_wpf.exe
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\bin\Debug\app_wpf.pdb
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf.csprojResolveAssemblyReference.cache
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\MainWindow.baml
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\MainWindow.g.cs
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\App.g.cs
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf_MarkupCompile.cache
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf.g.resources
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf.Properties.Resources.resources
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf.csproj.GenerateResource.Cache
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf.exe
+C:\Users\DiogoBernini\Documents\app\Workspace\visimob desktop\app_wpf\app_wpf\obj\Debug\app_wpf.pdb
