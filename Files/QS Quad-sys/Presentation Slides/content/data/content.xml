@@ -1,0 +1,996 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-108697.5751934529" y="-61087.29207009368" width="217395.1503869058" height="122174.58414018736"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1_24309637" type="button" x="5.5252589421740305e-12" y="-2.3727810051208613e-13" r="0" s="181.75332362420016" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1197.448853773701</w>
+        <h>673.5649802477071</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="2_24309637" type="text" x="58522.28314650518" y="-44348.34923665403" r="0" s="213.3060284189439" class="head">
+      <height>27.59765625</height>
+      <width>127.53392912651412</width>
+      <p>
+        <text><![CDATA[Quad-Sys]]></text>
+      </p>
+    </object>
+    <object id="28_30863873" type="button" x="55592.00006216997" y="-12500.735730295874" r="0" s="58.97006311990291" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="29_30863873" type="button" x="20372.516716980757" y="-35938.51453805847" r="0" s="38.162025228109" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.3291278113</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="30_30863873" type="button" x="-28740.774625411792" y="395.0696485981274" r="0" s="23.299141019684757" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="31_30863873" type="button" x="7452.848741641775" y="394.2227238447113" r="0" s="50.136067153769076" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.250521920668</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="33_30863873" type="shape" x="36573.4020843099" y="-34256.64337901876" r="26.647812312368316" s="86.23270156348423" class="line3">
+      <geom type="arrow">
+        <sp>47.32461962648498 10.262970643888435</sp>
+        <ep>-47.32461962648498 10.262970643888425</ep>
+        <b>20.52594128777686</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="34_30863873" type="shape" x="19407.92865473623" y="-15510.089034462208" r="-102.47965467108902" s="86.23270156348423" class="line3">
+      <geom type="arrow">
+        <sp>80.6973434594671 -15.332132357867112</sp>
+        <ep>-80.6973434594671 -15.332132357867131</ep>
+        <b>-30.664264715734245</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="35_30863873" type="shape" x="32171.585962431243" y="12446.082789191732" r="-141.42159720452997" s="86.23270156348428" class="line3">
+      <geom type="arrow">
+        <sp>126.5339456919774 -27.471167021531237</sp>
+        <ep>-126.53394569197738 -27.4711670215312</ep>
+        <b>-54.94233404306244</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="12_4" type="text" x="55988.705046164" y="-23300.925123372766" r="0" s="148.81811144124578" class="strong">
+      <height>82.79296875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Application to help reduce illegal trawling in Ghana]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="28_30863873"/>
+      </layout>
+    </object>
+    <object id="6_30863873" type="text" x="7345.937927596185" y="-8045.105921592091" r="0" s="82.93099538257604" class="strong">
+      <height>82.79296875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Quad-Sys]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[(Quadcopter Monitoring System)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="31_30863873"/>
+      </layout>
+    </object>
+    <object id="10_30863873" type="text" x="-28691.9472514276" y="-4525.63209854661" r="0" s="65.60418903841948" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Secure and Anonymous]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="30_30863873"/>
+      </layout>
+    </object>
+    <object id="6" type="image" x="20293.628767195878" y="-34067.480504151084" r="0" s="3.7841144979030235">
+      <source w="4300" h="3200">1915957000<url>1915957000.png</url></source>
+      <sourceUrl>apps.png</sourceUrl>
+    <resource><id>1915957000</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/a/b24fc22d6f07db362076cb415b5596aa9e21c.png</url></resource></object>
+    <object id="0_30863873" type="text" x="20292.20903835208" y="-41970.643052550346" r="0" s="50.50381559435072" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Develop an App for a smartphone]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="29_30863873"/>
+      </layout>
+    </object>
+    <object id="1" type="button" x="-18803.281635824802" y="-20489.216073965075" r="0" s="25.148937487583048" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2" type="text" x="-18891.442726848592" y="-25563.798547550257" r="0" s="85.6141304725549" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Goals]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="1"/>
+      </layout>
+    </object>
+    <object id="3" type="text" x="-16203.46281861808" y="-17053.475217796164" r="0" s="52.19791119276038" class="body">
+      <height>130.734375</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[Problem Solved!]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Sustainable!]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Intuitive!]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="1"/>
+      </layout>
+    </object>
+    <object id="4" type="shape" x="-35724.54308583854" y="-16094.841215814005" r="114.48648463807513" s="86.23270156348427" class="line3">
+      <geom type="arrow">
+        <sp>101.41641425488532 -40.818090308849186</sp>
+        <ep>-101.41641425488532 -40.818090308849186</ep>
+        <b>-81.63618061769837</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="8" type="image" x="-32123.38211820045" y="1906.7017996549555" r="0" s="12.24116711270991">
+      <source w="500" h="500">1915976224<url>1915976224.png</url></source>
+      <sourceUrl>safe and secure data.png</sourceUrl>
+    <resource><id>1915976224</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/c/c/4301eac3b944e76a0056be6f071a1cf5697ed.png</url></resource></object>
+    <object id="9" type="image" x="-25047.65418247897" y="1444.3041705259993" r="0" s="18.511163345417277">
+      <source w="280" h="280">1915979101<url>1915979101.png</url></source>
+      <sourceUrl>3822235094_no_killing_design_answer_2_xlarge cópia.png</sourceUrl>
+    <resource><id>1915979101</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/9/0/be0f8339050582a31af14d15e5cb1f2f7cb90.png</url></resource></object>
+    <object id="0_86435196" type="image" x="7443.610839193451" y="3332.182388816842" r="0" s="30.132898398475163">
+      <source w="600" h="400">1915989673<url>1915989673.jpg</url></source>
+      <sourceUrl>GoPro-Drone-Quadcopter-Promo-Code.jpg</sourceUrl>
+    <resource><id>1915989673</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/e/4de937198afa649e8ff85a1363f047cf4f27a.jpg</url></resource></object>
+    <object id="1_86435196" type="button" x="49396.75763028584" y="31899.359597800198" r="0" s="37.59881628055631" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="2_86435196" type="button" x="10700.475205565575" y="35068.6709678057" r="0" s="32.96089482083023" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="0_15683168" type="image" x="49601.60362980726" y="35778.97808413204" r="0" s="29.243659161076955">
+      <source w="944" h="467">1916256202<url>1916256202.PNG</url></source>
+      <sourceUrl>main concept.PNG</sourceUrl>
+    <resource><id>1916256202</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/4/8/962291457cef404e3ea3fd86eac8385130512.PNG</url></resource></object>
+    <object id="3_86435196" type="text" x="49598.61215064194" y="27138.01466126725" r="0" s="95.58543721375473" class="head">
+      <height>27.59765625</height>
+      <width>-173.5546875</width>
+      <p>
+        <text><![CDATA[Working Process]]></text>
+      </p>
+    </object>
+    <object id="5_86435196" type="image" x="55590.52969435081" y="-6150.583581571307" r="0" s="32.41481755729145">
+      <source w="640" h="640">1916036491<url>1916036491.swf</url></source>
+      <sourceUrl>Ghana1.swf</sourceUrl>
+    <resource><id>1916036491</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/e/9/24023fbdd8300fb74731021106c45baed78e9.swf</url></resource></object>
+    <object id="6_86435196" type="image" x="55784.11017255593" y="-6060.620869708347" r="0" s="33.029524872368995">
+      <source w="640" h="640">1916038852<url>1916038852.swf</url></source>
+      <sourceUrl>GhanaColor.swf</sourceUrl>
+    <resource><id>1916038852</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/8/b/435e35fcbb526593113a0a2fafc02d8dad674.swf</url></resource></object>
+    <object id="7_86435196" type="shape" x="29625.634650292126" y="41250.97958011034" r="164.99999999999997" s="86.2327015634843" class="line3">
+      <geom type="arrow">
+        <sp>-72.42926638969284 18.79119856694649</sp>
+        <ep>72.42926638969284 18.79119856694649</ep>
+        <b>-37.58239713389298</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="10_15683168" type="image" x="5636.591963112771" y="31581.812644617254" r="0" s="2.6584033525023565">
+      <source w="3328" h="1872">1916217877<url>1916217877.jpg</url></source>
+      <sourceUrl>Fjordn_surface_wave_boat (1) - Copy.jpg</sourceUrl>
+    <resource><id>1916217877</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/1/0/0bcce41b67de3186e85a5ba364c5ffe921458.jpg</url></resource></object>
+    <object id="9_86435196" type="text" x="11294.153148552765" y="26911.47450248987" r="0" s="87.78003714521387" class="head">
+      <height>27.59765625</height>
+      <width>-178.86328125</width>
+      <p>
+        <text><![CDATA[Image Processing]]></text>
+      </p>
+    </object>
+    <object id="14_86435196" type="shape" x="-2169.471451095537" y="20455.71389726055" r="-164.99999999999997" s="86.23270156348435" class="line3">
+      <geom type="arrow">
+        <sp>-61.15569639025405 -19.645043875298</sp>
+        <ep>61.15569639025405 -19.645043875298</ep>
+        <b>39.290087750596</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="15_86435196" type="text" x="-18705.818488472873" y="20694.45028603541" r="0" s="78.80954741675538" class="head">
+      <height>27.59765625</height>
+      <width>-178.86328125</width>
+      <p>
+        <text><![CDATA[Image Processing]]></text>
+      </p>
+    </object>
+    <object id="13_86435196" type="button" x="-18887.082643030084" y="27980.0912161038" r="0" s="31.273414297217702" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="18_86435196" type="button" x="-54219.40223487471" y="20590.832519693256" r="0" s="33.31259062370115" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="19_86435196" type="shape" x="-38873.876179684965" y="37400.82716503144" r="-172.2004340892677" s="86.23270156348413" class="line3">
+      <geom type="arrow">
+        <sp>-98.06658609294442 40.818090308849186</sp>
+        <ep>98.06658609294442 40.818090308849186</ep>
+        <b>-81.63618061769837</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="20_86435196" type="shape" x="-62547.17295325032" y="3675.6414235339416" r="84.85550089711681" s="86.23270156348427" class="line3">
+      <geom type="arrow">
+        <sp>53.71256133378203 -9.533736318857631</sp>
+        <ep>-53.71256133378203 -9.533736318857642</ep>
+        <b>-19.067472637715273</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="21_86435196" type="text" x="-53734.51392778002" y="12399.13856300507" r="0" s="79.44688017645869" class="head">
+      <height>27.59765625</height>
+      <width>-133.96875</width>
+      <p>
+        <text><![CDATA[Data Storage]]></text>
+      </p>
+    </object>
+    <object id="22_86435196" type="image" x="-60463.51057819635" y="21353.10585503207" r="0" s="11.676831671590609">
+      <source w="512" h="512">1916074795<url>1916074795.png</url></source>
+      <sourceUrl>http://www.graphicsfuel.com/wp-content/uploads/2012/03/folder-icon-512x512.png</sourceUrl>
+    <resource><id>1916074795</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/b/1/bf7958c73c09a5cbfdd3a1cc8c582f0e2f054.png</url></resource></object>
+    <object id="23_86435196" type="image" x="-49442.00739031882" y="17633.84385953099" r="0" s="17.983728776676617">
+      <source w="256" h="256">1916075155<url>1916075155.png</url></source>
+      <sourceUrl>http://www.veryicon.com/icon/png/Business/Pretty%20Office/Basic%20data.png</sourceUrl>
+    <resource><id>1916075155</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/8/8/a2c7fdd98dea592c1e6b275d0c89e32c426de.png</url></resource></object>
+    <object id="24_86435196" type="image" x="-50872.30741047339" y="26752.20729764091" r="0" s="17.983728776676617">
+      <source w="256" h="256">1916075155<url>1916075155.png</url></source>
+      <sourceUrl>http://www.veryicon.com/icon/png/Business/Pretty%20Office/Basic%20data.png</sourceUrl>
+    <resource><id>1916075155</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/8/8/a2c7fdd98dea592c1e6b275d0c89e32c426de.png</url></resource></object>
+    <object id="25_86435196" type="shape" x="-53973.787702094836" y="19091.302926052187" r="-20.842362667262122" s="21.419693300704527" class="line3">
+      <geom type="arrow">
+        <sp>-123.53882348005207 0</sp>
+        <ep>123.53882348005207 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="26_86435196" type="shape" x="-54966.57406233846" y="24745.80413626701" r="44.99999999999999" s="21.419693300704523" class="line3">
+      <geom type="arrow">
+        <sp>-122.8407449578963 0</sp>
+        <ep>122.8407449578963 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="27_86435196" type="button" x="-56263.64421426071" y="-10767.598472538166" r="0" s="27.201225010998296" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="28_86435196" type="shape" x="-43872.64779059924" y="395.69932577412203" r="-161.9619054519402" s="86.2327015634843" class="line3">
+      <geom type="arrow">
+        <sp>63.358454720837315 8.201262237119458</sp>
+        <ep>-63.358454720837315 8.201262237119455</ep>
+        <b>16.402524474238913</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="31_86435196" type="image" x="-56236.8695976348" y="-9656.719628730378" r="0" s="22.431089835488265">
+      <source w="580" h="405">1916084335<url>1916084335.jpe</url></source>
+      <sourceUrl>http://hacknmod.com/wp-content/uploads/2010/08/ScanCam.jpg</sourceUrl>
+    <resource><id>1916084335</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/6/3/b10abdfbd11cce712b841c829168051400f7b.jpe</url></resource></object>
+    <object id="29_86435196" type="text" x="-56105.94172233428" y="-17198.593639908435" r="0" s="67.57703603403313" class="head">
+      <height>27.59765625</height>
+      <width>-176.6953125</width>
+      <p>
+        <text><![CDATA[Charging Station]]></text>
+      </p>
+    </object>
+    <object id="2_15683168" type="image" x="-11564.76048818426" y="26029.82814107464" r="0" s="11.041675630706225">
+      <source w="920" h="613">1916157673<url>1916157673.jpg</url></source>
+      <sourceUrl>Depositphotos_2852460_L3 - Copy.jpg</sourceUrl>
+    <resource><id>1916157673</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/4/8da949d37c71df952bbd143864ca7797b01eb.jpg</url></resource></object>
+    <object id="3_15683168" type="image" x="-24360.61751985887" y="26029.56039490839" r="0" s="10.956719352247507">
+      <source w="920" h="613">1916157811<url>1916157811.jpg</url></source>
+      <sourceUrl>Depositphotos_2852460_L3.jpg</sourceUrl>
+    <resource><id>1916157811</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/c/b/7b64b56293dd567520ed68b3efbffd8103432.jpg</url></resource></object>
+    <object id="7_15683168" type="image" x="-24359.01104286132" y="34411.08638347405" r="0" s="11.10859075493288">
+      <source w="920" h="613">1916158792<url>1916158792.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/e/e/d/4ba4fb29d1f667121c387a9fd64a24c1570ce.png</sourceUrl>
+    <resource><id>1916158792</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/e/d/4ba4fb29d1f667121c387a9fd64a24c1570ce.png</url></resource></object>
+    <object id="6_15683168" type="image" x="-11563.957249685474" y="34410.55089114154" r="0" s="11.297997017385713">
+      <source w="920" h="613">1916158897<url>1916158897.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/c/9/1/388271e3c7dc32dffaba29d40ba269b89a095.png</sourceUrl>
+    <resource><id>1916158897</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/9/1/388271e3c7dc32dffaba29d40ba269b89a095.png</url></resource></object>
+    <object id="11_15683168" type="image" x="15923.13192460986" y="31582.348136949782" r="0" s="2.605267138504955">
+      <source w="3328" h="1872">1916217880<url>1916217880.jpg</url></source>
+      <sourceUrl>Fjordn_surface_wave_boat (1).jpg</sourceUrl>
+    <resource><id>1916217880</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/a/b/4d37e76bcb0930bda084c564e8b730d30e264.jpg</url></resource></object>
+    <object id="13_15683168" type="image" x="5638.466186276584" y="37356.294212320914" r="0" s="5.6436155119930325">
+      <source w="1200" h="675">1916219806<url>1916219806.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/0/c/b/568f9229e45366c5253243950d99d3b0b4014.png</sourceUrl>
+    <resource><id>1916219806</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/c/b/568f9229e45366c5253243950d99d3b0b4014.png</url></resource></object>
+    <object id="14_15683168" type="image" x="15923.131924609856" y="37356.294212320936" r="0" s="5.6436155119930325">
+      <source w="1200" h="675">1916220034<url>1916220034.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/5/d/7/a93a3335382c8fd5534703104d9802cecfb3a.png</sourceUrl>
+    <resource><id>1916220034</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/d/7/a93a3335382c8fd5534703104d9802cecfb3a.png</url></resource></object>
+    <object id="15_15683168" type="image" x="15921.25770144604" y="42733.708215462815" r="0" s="5.6436155119930325">
+      <source w="1200" h="675">1916220499<url>1916220499.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/d/c/a31837e80dcb4d9125e970675d893ffa81243.png</sourceUrl>
+    <resource><id>1916220499</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/d/c/a31837e80dcb4d9125e970675d893ffa81243.png</url></resource></object>
+    <object id="16_15683168" type="image" x="5638.466186276579" y="42733.708215462815" r="0" s="5.6436155119930325">
+      <source w="1200" h="675">1916220280<url>1916220280.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/7/5/9/472878ad0bde20d9627cca1568920dea11d2a.png</sourceUrl>
+    <resource><id>1916220280</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/5/9/472878ad0bde20d9627cca1568920dea11d2a.png</url></resource></object>
+    <object id="17_15683168" type="button" x="1195.7540495442029" y="-1946.968771308046" r="0" s="165.94191458329027" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1213.854351687389</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="18_15683168" type="button" x="21469.226012494775" y="-32951.97482407784" r="-91.42961898664316" s="0.641524917149322" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="20_15683168" type="text" x="21469.178876949485" y="-32957.702954396176" r="-91.42961898664316" s="1.1788246164343623" class="body">
+      <height>228.78515625</height>
+      <width>330.6140433156948</width>
+      <p>
+        <text><![CDATA[UNSAFE]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[PHONE COVERAGE]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[LACK OF INTEREST]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[UNRELIABLE]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="25_15683168" type="marker" x="7494.214864616369" y="2058.2461297574378" r="0" s="0.8843673670386074">
+      <width>17</width>
+      <height>20.05</height>
+      <offsetx>-22313.95</offsetx>
+      <offsety>16047.425</offsety>
+      <p x="-22313.24912543864" y="16048.099370999378"/>
+      <p x="-22314.94912537201" y="16044.94937112284"/>
+      <p x="-22312.9491254504" y="16049.949370926868"/>
+    </object>
+    <object id="1_15683168" type="button" x="48796.21001655921" y="33781.63009940016" r="0" s="31.284593441336344" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1213.854351687389</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="4_15683168" type="image" x="7549.313566801578" y="7427.84975445151" r="0" s="0.519673923082708">
+      <source w="1118" h="520">1916258335<url>1916258335.PNG</url></source>
+      <sourceUrl>etapa1.PNG</sourceUrl>
+    <resource><id>1916258335</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/e/8/0b6fefb9d7094e214702d43ef9c8a0e9defa6.PNG</url></resource></object>
+    <object id="8_15683168" type="text" x="-49441.02075236427" y="21050.744478617777" r="0" s="29.45169251007156" class="body">
+      <height>65.3671875</height>
+      <width>120.5757659632442</width>
+      <p align="center">
+        <text><![CDATA[University Server]]></text>
+      </p>
+    </object>
+    <object id="12_15683168" type="text" x="-51452.7148006813" y="29607.428744430465" r="0" s="33.393923907794054" class="body">
+      <height>32.68359375</height>
+      <width>176.34375</width>
+      <p align="right">
+        <text><![CDATA[Government]]></text>
+      </p>
+    </object>
+    <object id="5_15683168" type="button" x="59089.41006679327" y="32357.67585196552" r="0" s="10.485357967419649" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1213.854351687389</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_15683168" type="button" x="51339.49821677965" y="37677.806249223904" r="0" s="10.452052565454139" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1213.854351687389</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="19_15683168" type="button" x="44855.30531647036" y="37098.82519735526" r="0" s="10.928840762599854" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1213.854351687389</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="21_15683168" type="button" x="58779.30221620777" y="32420.37580673658" r="0" s="10.419004406688192" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1213.854351687389</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="22_15683168" type="shape" x="-26302.927942785336" y="8455.084014392958" r="-129.1329645219844" s="86.23270156348431" class="line3">
+      <geom type="arrow">
+        <sp>43.974945461857615 8.20126223711947</sp>
+        <ep>-43.974945461857615 8.201262237119442</ep>
+        <b>16.402524474238913</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="23_15683168" type="button" x="-19517.14953854013" y="11368.001878013874" r="0" s="6.772644686590058" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="24_15683168" type="text" x="-19455.855232359423" y="9994.344138456718" r="0" s="11.068101892380897" class="strong">
+      <height>27.59765625</height>
+      <width>350.1993900181616</width>
+      <p align="center">
+        <text><![CDATA[LIFE]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="26_15683168" type="text" x="-19389.365409789134" y="11277.445643784664" r="0" s="6.386238927843898" class="body">
+      <height>98.05078125</height>
+      <width>595.9157889670861</width>
+      <p>
+        <text><![CDATA[$2000 aprox. salary of a fisher in Ghana]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[$1000 aprox. per quadcopter implemented]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="27_15683168" type="shape" x="-18373.800561120213" y="3685.3931187708936" r="-108.05983514307756" s="86.23270156348443" class="line3">
+      <geom type="arrow">
+        <sp>-47.73464620451676 -8.201262237119456</sp>
+        <ep>47.73464620451676 -8.201262237119456</ep>
+        <b>16.402524474238913</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>explain_a_topic-locked</parentTemplate>
+      </meta>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="17_15683168"/>
+    </s>
+    <s>
+      <eagle o="28_30863873"/>
+    </s>
+    <s>
+      <eagle o="29_30863873"/>
+    </s>
+    <s>
+      <eagle o="18_15683168"/>
+    </s>
+    <s>
+      <eagle o="1_15683168"/>
+    </s>
+    <s>
+      <eagle o="5_15683168"/>
+    </s>
+    <s>
+      <eagle o="9_15683168"/>
+    </s>
+    <s>
+      <eagle o="19_15683168"/>
+    </s>
+    <s>
+      <eagle o="21_15683168"/>
+    </s>
+    <s>
+      <eagle o="31_30863873"/>
+    </s>
+    <s>
+      <eagle o="4_15683168"/>
+    </s>
+    <s>
+      <eagle o="2_86435196"/>
+    </s>
+    <s>
+      <eagle o="13_86435196"/>
+    </s>
+    <s>
+      <eagle o="18_86435196"/>
+    </s>
+    <s>
+      <eagle o="27_86435196"/>
+    </s>
+    <s>
+      <eagle o="30_30863873"/>
+    </s>
+    <s>
+      <eagle o="23_15683168"/>
+    </s>
+    <s>
+      <eagle o="1"/>
+    </s>
+    <s>
+      <eagle o="17_15683168"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Tinos-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Tinos-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Tinos;
+}
+
+.line1
+{
+	borderColor: #fff;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line2
+{
+	borderColor: #7a4780;
+	color: #7a4780;
+	gradEndColor: #7a4780;
+	gradStartColor: #7a4780;
+}
+
+.line3
+{
+	color: #194a99;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+.line4
+{
+	borderColor: #a3cbe6;
+	color: #a3cbe6;
+	gradEndColor: #f3347c;
+	gradStartColor: #f3347c;
+}
+
+.line5
+{
+	borderColor: #21bff2;
+	color: #21bff2;
+	gradEndColor: #21bff2;
+	gradStartColor: #21bff2;
+}
+
+.poly1
+{
+	borderColor: #3682a2;
+	borderThickness: 9;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderColor: #7a4780;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #7a4780;
+	gradStartColor: #7a4780;
+}
+
+.poly3
+{
+	borderColor: #402776;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #402776;
+	gradStartColor: #402776;
+}
+
+.poly4
+{
+	borderColor: #a3cbe6;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #f3347c;
+	gradStartColor: #f3347c;
+}
+
+.poly5
+{
+	borderColor: #21bff2;
+	borderThickness: 9;
+	color: #fff;
+	gradEndColor: #21bff2;
+	gradStartColor: #21bff2;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderColor: #6596e5;
+	borderThickness: 0;
+	gradEndColor: #194a99;
+	gradStartColor: #194a99;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #194a99;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 0.4;
+	gradEndColor: #000;
+	gradStartAlpha: 0.4;
+	gradStartColor: #000;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 6;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fff;
+	gradStartAlpha: 0;
+	gradStartColor: #fff;
+	radius: 3;
+	thickness: 8;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #000;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #402776;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #402776;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #194a99;
+}
+
+ZMarker
+{
+	alpha: 0.85;
+	color: #21bff2;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>b3df9ac</hash>
+<sync><oid>sjmktmo5li4e</oid><title>application-to-help-reduce-illegal-trawling-in-ghana</title><hash>b3df9ac</hash></sync><config>lBe2qS2rtKMCZc6qUuDeRQym42U8KMDldXPfImrhtdnlalHDawnB2kETO7aE5bish16xs/zZ4ujGO7zjcAP1MMvrO4lMSBDK4JxYi9J4hv1pgaw18GR8Y3xrRkSYQWUEwEfz6q0u3lYz/6bAvRXR3Ng00oTLJ/kWitR2ngWO9LdOEn2Tonc60jpIKt6WmfmDogbunHoVgeezILM2xfCc5zKgu0JoMCmTFPr3gAG3zJd7fpPauJQ/hzkhdEwBL/jm1qASw6gBxEuSRb05A1fKmohgNheuULp2rTw+b4tkalib3TzgS1O4CsZc+Ketg7FvAkeqvyum1QZnFrjOj1POzQ==</config></zuiprezi>
