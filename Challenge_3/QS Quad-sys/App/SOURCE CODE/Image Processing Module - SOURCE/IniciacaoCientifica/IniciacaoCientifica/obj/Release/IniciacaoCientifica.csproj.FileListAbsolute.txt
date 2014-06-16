@@ -1,6 +1,0 @@
-C:\Users\DiogoBernini\Dropbox\Plano IC\VS\IniciacaoCientifica\IniciacaoCientifica\bin\Release\IniciacaoCientifica.exe.config
-C:\Users\DiogoBernini\Dropbox\Plano IC\VS\IniciacaoCientifica\IniciacaoCientifica\obj\Release\IniciacaoCientifica.csprojResolveAssemblyReference.cache
-C:\Users\DiogoBernini\Dropbox\Plano IC\VS\IniciacaoCientifica\IniciacaoCientifica\obj\Release\IniciacaoCientifica.janela.resources
-C:\Users\DiogoBernini\Dropbox\Plano IC\VS\IniciacaoCientifica\IniciacaoCientifica\obj\Release\IniciacaoCientifica.Properties.Resources.resources
-C:\Users\DiogoBernini\Dropbox\Plano IC\VS\IniciacaoCientifica\IniciacaoCientifica\obj\Release\IniciacaoCientifica.teste.resources
-C:\Users\DiogoBernini\Dropbox\Plano IC\VS\IniciacaoCientifica\IniciacaoCientifica\obj\Release\IniciacaoCientifica.csproj.GenerateResource.Cache
